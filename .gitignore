@@ -1,0 +1,6 @@
+newsdata/
+
+forward_index.json
+inverted_index.json
+lexicon.json
+doc_index.json
